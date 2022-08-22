@@ -20,6 +20,8 @@ This Addon can be converted to OBJ/FBX/GLTF/X3D (Blender 2.8x version or above),
 | 2.8x up |
 | ---- |
 | File -> |
+| 2.79x |
+| File -> |
 ## Link 連結
 [Facebook](https://www.runoob.com](https://www.facebook.com/groups/tbuc.adm))
 [Website](https://sites.google.com/view/blendertw/)
