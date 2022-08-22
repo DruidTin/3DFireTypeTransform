@@ -20,6 +20,7 @@ This Addon can be converted to OBJ/FBX/GLTF/X3D (Blender 2.8x version or above),
 | 2.8x up |
 | ---- |
 | File -> |
+
 | 2.79x |
 | ---- |
 | File -> |
