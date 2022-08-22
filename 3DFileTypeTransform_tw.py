@@ -1,5 +1,5 @@
 bl_info={
-    "name": "快速轉檔工具",
+    "name": "3D格式快速轉檔工具",
     "author": "Druid Ting",
     "version": (1, 0),
     "blender": (2, 80, 0),
@@ -61,11 +61,11 @@ class FilePropertyGroup(PropertyGroup):
 
 
 class FileConvertsPlane(Panel):
-    bl_label = "快速轉檔工具"
+    bl_label = "3D格式快速轉檔工具"
     bl_idname = "TOOLS_PT_1"
     bl_space_type = 'VIEW_3D'
     bl_region_type = 'UI'
-    bl_category = "快速轉檔工具"
+    bl_category = "3D格式快速轉檔工具"
     bl_context = "objectmode"
 
     def draw(self, context):
