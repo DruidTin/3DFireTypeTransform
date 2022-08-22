@@ -16,7 +16,10 @@ This Addon can be converted to OBJ/FBX/GLTF/X3D (Blender 2.8x version or above),
 |  English UI  | 中文介面  | English UI 2.97x |
 |  ----  | ----  | ----  |
 | ![En](https://i.pinimg.com/564x/07/56/ab/0756ab332c0b1db788ae7079e446f593.jpg)  | ![TW](https://i.pinimg.com/564x/e0/c9/1c/e0c91c957ff1f4a77498e02d6b47a0fd.jpg) | ![2.79](https://i.pinimg.com/564x/aa/8c/f9/aa8cf96c48d28f579b6a53f2a09bb9a8.jpg) |
-
+## Install 安裝
+| 2.8x up |
+| ---- |
+| File -> |
 ## Link 連結
 [Facebook](https://www.runoob.com](https://www.facebook.com/groups/tbuc.adm))
 [Website](https://sites.google.com/view/blendertw/)
