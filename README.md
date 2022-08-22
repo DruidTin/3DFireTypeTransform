@@ -1,6 +1,11 @@
 # 3DFireTypeTransform
 ### EN
 This is a program that converts an entire folder of 3D files to a specified 3D format.
+
+There are three versions in the file, Blender 2.8 / Blender 2.79 English version, Blender 2.8 Chinese version, mainly because Blender 2.79 version has a very common format "3DS", if you need to convert to .3ds format, then you can only use Blender 2.79x version.
+
+This Addon can be converted to OBJ/FBX/GLTF/X3D (Blender 2.8x version or above), OBJ/FBX/3DS/X3D (Blender 2.79x version)
+
 ### 中文
 這是一個可以將一整個資料夾中的，3D文件全部轉換為指定3D格式，不用擔心有上百個檔案，彈指之間就完成。
 
