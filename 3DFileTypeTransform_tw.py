@@ -40,7 +40,7 @@ class FilePropertyGroup(PropertyGroup):
     
 
     my_enum_inType: EnumProperty(
-        name="格式:",
+        name="格式",
         description="選擇需要的格式.",
         items=[ ('.obj', ".obj", "選擇OBJ格式"),
                 ('.fbx', ".fbx", "選擇FBX格式"),
@@ -50,7 +50,7 @@ class FilePropertyGroup(PropertyGroup):
         )
 
     my_enum_outType: EnumProperty(
-        name="格式:",
+        name="格式",
         description="選擇需要的格式.",
         items=[ ('.obj', "OBJ", "輸出OBJ格式"),
                 ('.fbx', "FBX", "輸出FBX格式"),
