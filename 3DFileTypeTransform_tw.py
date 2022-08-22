@@ -24,14 +24,14 @@ from bpy.utils import register_class,unregister_class
 class FilePropertyGroup(PropertyGroup):
 
     my_sourceURL: StringProperty(
-        name="Source",
+        name="來源",
         description=":",
         default="選擇輸入路徑",
         maxlen=1024,
         subtype='DIR_PATH',
         )
     my_outURL: StringProperty(
-        name="Output",
+        name="輸出",
         description=":",
         default="選擇輸出路徑",
         maxlen=1024,
