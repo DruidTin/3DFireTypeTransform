@@ -12,7 +12,7 @@ This Addon can be converted to OBJ/FBX/GLTF/X3D (Blender 2.8x version or above),
 檔案中有三種版本，Blender2.8 / Blender 2.79 英文版、Blender2.8 中文版，主要是因為Blender 2.79版本有一個很常用的格式"3DS"，如果你需要轉換為.3ds格式，那你只能使用Blender 2.79x版本。
 
 這個Addon可以轉換的格式有 OBJ/FBX/GLTF/X3D (Blender 2.8x 以上版本)，OBJ/FBX/3DS/X3D (Blender 2.79x 版本)
-![En](https://i.pinimg.com/564x/2a/6a/19/2a6a190cf264fc4253a82ac60dbab98a.jpg
+![En](https://i.pinimg.com/564x/2a/6a/19/2a6a190cf264fc4253a82ac60dbab98a.jpg)
 ![TW](https://i.pinimg.com/564x/8e/6d/ff/8e6dff5572cb4af711d8a3daecdada27.jpg)
 
 FB https://www.facebook.com/groups/tbuc.adm
