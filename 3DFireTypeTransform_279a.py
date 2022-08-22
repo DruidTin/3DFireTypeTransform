@@ -40,7 +40,7 @@ class FilePropertyGroup(PropertyGroup):
     
 
     my_enum_inType = EnumProperty(
-        name="Format:",
+        name="Format",
         description="Select format.",
         items=[ ('.obj', ".obj", "Select OBJ format"),
                 ('.fbx', ".fbx", "Select FBX format"),
@@ -50,7 +50,7 @@ class FilePropertyGroup(PropertyGroup):
         )
 
     my_enum_outType = EnumProperty(
-        name="Format:",
+        name="Format",
         description="Select format.",
         items=[ ('.obj', "OBJ", "Output OBJ format"),
                 ('.fbx', "FBX", "Output FBX format"),
