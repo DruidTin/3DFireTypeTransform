@@ -24,6 +24,8 @@ This Addon can be converted to OBJ/FBX/GLTF/X3D (Blender 2.8x version or above),
 | 2.79x |
 | ---- |
 | File -> User Preferences -> Addon -> Install Add-on from File |
+## Download 下載
+[Gumroad](https://btuc.gumroad.com/l/gqaat)
 ## Link 連結
 [Facebook](https://www.runoob.com](https://www.facebook.com/groups/tbuc.adm))
 [Website](https://sites.google.com/view/blendertw/)
